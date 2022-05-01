@@ -1,0 +1,48 @@
+body {
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Water Brush', cursive;
+    background: lightblue;
+}
+
+.header_div {
+    background: rgb(59, 119, 175);
+    color: whitesmoke;
+    font-family: 'Vollkorn', serif;
+    text-shadow: 5px 5px 5px whitesmoke;
+
+}
+
+.header_div p {
+    font-family: 'Vollkorn', serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.main_div button {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    text-shadow: 5px 5px 5px grey;
+    line-height: 3;
+    text-align: center;
+}
+
+#button {
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Water Brush', cursive;
+    width: 200px;
+}
